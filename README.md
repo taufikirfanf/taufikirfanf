@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taufikirfanf
-- 👀 I’m interested in Web Design
+- 👀 I’m interest in Web Design
 - 🌱 I’m currently learning HTML, CSS, JS, Bootstrap
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me taufikirfanf@gmail.com
